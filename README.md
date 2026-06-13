@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Olá, eu sou Vitor Gonçalves Feitosa
 
-<!--
-**Vitorr19/Vitorr19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software
 
-Here are some ideas to get you started:
+💻 Monitor de TI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Brasília - DF
+
+## 🌐 Redes Sociais
+
+[![YouTube](https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCX2qXXT0oO61WydOKyCRvPg)
+[![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitinn._f/)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-gonçalves-feitosa-8bb5693b3)
